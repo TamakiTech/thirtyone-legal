@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background: #0b100e;
+  color: #fbf7ee;
+  font: 18px/1.55 Georgia, "Times New Roman", serif;
+}
+
+main {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2.5rem 1.4rem 4rem;
+}
+
+.brand {
+  margin: 0 0 0.4rem;
+  color: #d4b15a;
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+}
+
+nav {
+  display: flex;
+  gap: 1rem;
+  margin: 0 0 1.6rem;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 2.4rem;
+  line-height: 1.1;
+  margin: 0 0 1rem;
+}
+
+p {
+  color: #cbbfa8;
+}
+
+a {
+  color: #d4b15a;
+}
+
+.footer {
+  margin-top: 2.4rem;
+  font-size: 0.95rem;
+}
